@@ -12,4 +12,3 @@ Cada integrante do grupo deverá:
 3. Criar pelo menos um commit.
 4. Enviar a branch para o GitHub.
 5. Abrir um Pull Request para a `main`.
-\
